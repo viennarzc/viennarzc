@@ -10,6 +10,9 @@
 - 🌱 I’m currently learning UX Design, Swift Concurrency, Combine Framework, and continually exploring SwiftUI
 - ⚡ Fun fact: I love coffee ☕️, and usually spend time reading books
 
+
+<a href="https://app.daily.dev/viennci"><img src="https://api.daily.dev/devcards/v2/WBsxyXRYWWAnYQbFioTLe.png?r=215" width="356" alt="Viennarz Curtiz's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vienn_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vienn_codes" height="30" width="40" /></a>
