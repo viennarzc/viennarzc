@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/vienn_codes" target="blank"><img src="https://img.shields.io/twitter/follow/vienn_codes?logo=twitter&style=for-the-badge" alt="vienn_codes" /></a> </p>
 
 
-- 🔭 I’m currently working on various projects on the company I am working for, AND several personal app projects which soon to be release on the App Store
+- 🔭 I’m currently working on various projects on the company I am working for, AND several personal indie app projects that are currently published in the App Store. 
 - 🌱 I’m currently learning UX Design, Swift Concurrency, Combine Framework, and continually exploring SwiftUI
 - ⚡ Fun fact: I love coffee ☕️, and usually spend time reading books
 
